@@ -145,3 +145,15 @@ body{
     margin-bottom: 10px;
 
 }
+
+ @media only screen and (max-width: 786px) {
+    .container{
+        width: 400px;
+        height: 400px;
+    }
+
+    body{
+        padding: 3em;
+    }
+    
+}
